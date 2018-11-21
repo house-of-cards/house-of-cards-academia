@@ -1,20 +1,50 @@
 * Scientific Papers as Code
+
 ** Prose as Programmable Data
-We could start with using Pollen which is a wonderful means to generate code in the pollen markdown language and thus compile the same content into multiple formats.
+
+We could start with using Pollen which is a wonderful means to generate code in the pollen markdown language and thus compile the same content into multiple formats like PDF and HTML.
+
 
 ** Reference:
+
 1.	Pollen  - https://github.com/mbutterick/pollen
+
 2.	Pollen Documentation - http://docs.racket-lang.org/pollen/
 
+
 * Why House of Cards?
+
 ** Abstract
+
 “What we truly understand, we never forget” 
+
 It is our strong belief that contextual learning is the best form of learning which leads to deeper understanding and insights on the subject matter.
 
 
-Roadmap
-•	We build on these stories using a Deck of Cards.
-•	Algorithms could be based on simple stories about personified cards. 
-•	Modelling card games using the modern software development techniques.
+** There is just too much to learn!
+
+*** Programming Languages
+
+*** Mathematics and Computer Science
+
+*** Web Frameworks 
+
+*** Databases
+
+*** System Design
+
+*** Websites 
 
 
+** Roadmap
+
+*** We build on these stories using a Deck of Cards.
+
+*** Algorithms could be based on simple stories about personified cards. 
+
+*** Modeling card games using the modern software development techniques.
+
+
+
+
+ 

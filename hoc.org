@@ -43,8 +43,54 @@ It is our strong belief that contextual learning is the best form of learning wh
 *** Algorithms could be based on simple stories about personified cards. 
 
 *** Modeling card games using the modern software development techniques.
-
+    
 
 
 
  
+* Data Structures of choice
+https://www.geeksforgeeks.org/data-structures/
+** Clojure  
+*** list
+*** hash-map
+
+** References 
+https://en.wikipedia.org/wiki/List_of_data_structures
+
+* Algorithms
+
+** Types of Algorithms 
+*** Searching 
+**** Linear Search 
+**** Binary Search 
+**** Jump Search
+**** Interpolation Search
+**** Exponential Search
+**** Ternary Search
+*** Sorting
+**** Selection Sort
+**** Bubble Sort
+**** Insertion Sort
+**** Merge Sort
+**** Heap Sort
+**** Quick Sort
+**** Radix Sort
+**** Counting Sort
+**** Bucket Sort
+**** Shell Sort
+**** Comb Sort
+**** Pigeonhole Sort
+**** Cycle Sort
+** Resources
+
+*** https://www.geeksforgeeks.org/fundamentals-of-algorithms/
+
+* Playing Card Games
+https://gitlab.com/abhi18av/game-ebooks
+** Solitaire
+
+* Web Programming
+
+* Mobile Application
+
+* Desktop Application

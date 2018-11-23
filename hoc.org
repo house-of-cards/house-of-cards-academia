@@ -47,15 +47,16 @@ It is our strong belief that contextual learning is the best form of learning wh
 
 
 * Data Structures of choice
-https://www.geeksforgeeks.org/data-structures/
+  https://www.geeksforgeeks.org/data-structures/
 ** Clojure  
+https://github.com/anmonteiro/lumo/releases/tag/1.9.0
 *** list
 *** hash-map
 
 ** References 
-https://en.wikipedia.org/wiki/List_of_data_structures
 
 * Algorithms
+https://www.geeksforgeeks.org/fundamentals-of-algorithms/
 
 ** Types of Algorithms 
 *** Searching 
@@ -81,14 +82,17 @@ https://en.wikipedia.org/wiki/List_of_data_structures
 **** Cycle Sort
 ** Resources
 *** http://www.4clojure.com/problems
-*** https://www.geeksforgeeks.org/fundamentals-of-algorithms/
 
 * Playing Card Games
 https://gitlab.com/abhi18av/game-ebooks
 ** Solitaire
 
+
+
 * Later 
 https://github.com/kamranahmedse/developer-roadmap
+
+** Sample Projects
 ** Web Backend Programming
 *** API
 *** DevOps
@@ -162,6 +166,4 @@ https://github.com/AlaaAttya/software-architect-roadmap
 ** Search Engine
 
 ** Web Crawler
-
-* Sample Projects
 

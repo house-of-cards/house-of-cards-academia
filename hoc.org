@@ -11,7 +11,6 @@ We could start with using Pollen which is a wonderful means to generate code in 
 
 2.	Pollen Documentation - http://docs.racket-lang.org/pollen/
 
-
 * Why House of Cards?
 
 ** Abstract
@@ -47,7 +46,6 @@ It is our strong belief that contextual learning is the best form of learning wh
 
 
 
- 
 * Data Structures of choice
 https://www.geeksforgeeks.org/data-structures/
 ** Clojure  
@@ -89,24 +87,49 @@ https://en.wikipedia.org/wiki/List_of_data_structures
 https://gitlab.com/abhi18av/game-ebooks
 ** Solitaire
 
-
 * Later 
+https://github.com/kamranahmedse/developer-roadmap
 ** Web Backend Programming
 *** API
-*** Libraries 
-**** Compojure 
-**** Pedestal
+*** DevOps
+**** XEN Unikernels
+**** Hosting
+***** DigitalOcean
+***** AWS
+***** Scaleway
+***** e2e networks
+**** GitLab
+**** Slack Notifications
+**** Virtual Images
+**** Docker Images
 *** Databases
+**** EDN 
+**** XML
+**** JSON
+**** GRPC
 **** PostgreSQL
+**** S3
+**** Backblaze
 **** Datomic 
 **** OrientDB
 **** MongoDB
 **** OracleDB  ( XML and others ) 
-**** Backblaze
 **** Neo4J
+**** Redis
+*** Testing 
+**** Load Testing 
+***** jMeter 
+***** Gattling
+**** UI Testing
+*** Logging
+*** Documentation
 ** Web Frontend Programming
 
 *** re-frame 
+
+*** HTML
+
+*** CSS
 
 ** Full Stack Programming
 
@@ -121,3 +144,25 @@ https://gitlab.com/abhi18av/game-ebooks
 *** JavaFX
 
 *** Electron
+
+** Terminal Appilcations
+
+** Distributed Systems and Processing
+** Data Science 
+
+** Machine Learning and Artificial Intelligence
+
+** Architecture Design 
+https://github.com/AlaaAttya/software-architect-roadmap
+** Process Design
+
+** User Experience Design ( UX ) 
+
+** User Interface Design ( UI ) 
+
+** Search Engine
+
+** Web Crawler
+
+* Sample Projects
+

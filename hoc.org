@@ -80,7 +80,7 @@ https://en.wikipedia.org/wiki/List_of_data_structures
 **** Pigeonhole Sort
 **** Cycle Sort
 ** Resources
-
+*** http://www.4clojure.com/problems
 *** https://www.geeksforgeeks.org/fundamentals-of-algorithms/
 
 * Playing Card Games
@@ -124,7 +124,6 @@ https://github.com/kamranahmedse/developer-roadmap
 *** Logging
 *** Documentation
 ** Web Frontend Programming
-
 *** re-frame 
 
 *** HTML

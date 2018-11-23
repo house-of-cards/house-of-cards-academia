@@ -56,8 +56,15 @@ https://github.com/anmonteiro/lumo/releases/tag/1.9.0
 ** Data Modeling using Clojure lists and hash-maps
 **** 
      #+BEGIN_SRC  clojure
-     (def a-sample-list '(("House" "Rank" )))
-     (conj a-sample-list '("S" "1"))
+
+(def suites '("Spades" "Clubs" "Hearts" "Diamonds"))
+(def ranks '(1 2 3 4 5 6 7 8 9 10 11 12 13))
+
+
+(def a-sample-list '(( "Rank" "House")))
+(conj a-sample-list '( "1" "Spades"))
+
+
 
      #+END_SRC
 ** References 

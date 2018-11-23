@@ -42,17 +42,24 @@ It is our strong belief that contextual learning is the best form of learning wh
 *** Algorithms could be based on simple stories about personified cards. 
 
 *** Modeling card games using the modern software development techniques.
-    
-
-
-
+* The Card Universe
+** Each card is given it's own unique identity and personality
+** The persona has been derived from two sources, namely Alagesia and schema.org
+https://schema.org/docs/full.html
+** We use these fields to play out the various scenarios in the Card Universe.
 * Data Structures of choice
   https://www.geeksforgeeks.org/data-structures/
 ** Clojure  
 https://github.com/anmonteiro/lumo/releases/tag/1.9.0
 *** list
 *** hash-map
+** Data Modeling using Clojure lists and hash-maps
+**** 
+     #+BEGIN_SRC  clojure
+     (def a-sample-list '(("House" "Rank" )))
+     (conj a-sample-list '("S" "1"))
 
+     #+END_SRC
 ** References 
 
 * Algorithms
@@ -86,9 +93,6 @@ https://www.geeksforgeeks.org/fundamentals-of-algorithms/
 * Playing Card Games
 https://gitlab.com/abhi18av/game-ebooks
 ** Solitaire
-
-
-
 * Later 
 https://github.com/kamranahmedse/developer-roadmap
 

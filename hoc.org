@@ -89,8 +89,35 @@ https://en.wikipedia.org/wiki/List_of_data_structures
 https://gitlab.com/abhi18av/game-ebooks
 ** Solitaire
 
-* Web Programming
 
-* Mobile Application
+* Later 
+** Web Backend Programming
+*** API
+*** Libraries 
+**** Compojure 
+**** Pedestal
+*** Databases
+**** PostgreSQL
+**** Datomic 
+**** OrientDB
+**** MongoDB
+**** OracleDB  ( XML and others ) 
+**** Backblaze
+**** Neo4J
+** Web Frontend Programming
 
-* Desktop Application
+*** re-frame 
+
+** Full Stack Programming
+
+*** fulcro 
+
+** Mobile Application
+
+*** re-natal
+
+** Desktop Application
+
+*** JavaFX
+
+*** Electron
